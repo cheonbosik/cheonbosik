@@ -81,3 +81,7 @@ Here are some ideas to get you started:
 <span style="color:#ffd33d">노랑</span>
 
 -->
+
+<img src ="https://img.shields.io/badge/4chan.svg?&style=for-the-badge&logo=4chan&logoColor=#006600" alt="크로버"/>
+
+
