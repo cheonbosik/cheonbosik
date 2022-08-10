@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 *****
 - - -
 --------
--->
+
 
 <h3>링크</h3>
 <a href="http://www.naver.com">네이버</a>
@@ -80,3 +80,4 @@ Here are some ideas to get you started:
 
 <span style="color:#ffd33d">노랑</span>
 
+-->
