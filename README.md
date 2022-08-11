@@ -81,6 +81,8 @@ Here are some ideas to get you started:
 <span style="color:#ffd33d">노랑</span>
 
 -->
+<!-- 깃허브 뱃지 등록하기
+ <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
 
 <img alt="크로버" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=006600"/>
 <img alt="Cshart" src="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white""/>
@@ -92,4 +94,6 @@ Here are some ideas to get you started:
                                                                                                                                        <a href="http://daum.net" target="_blank"><img src="https://img.shields.io/badge/Burton-000000?style=social&logo=Burton&logoColor=#ffff00"/></a>
                                                                                                                                        <a href="http://daum.net" target="_blank"><img src="https://img.shields.io/badge/행복천-000000?style=for-the-dadge&logo=Burton&logoColor=white"/></a>
 
+<!--  깃허브 스탯(step) 등록하기
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheonbosik&show_icons=true&theme=radical)
