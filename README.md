@@ -82,6 +82,6 @@ Here are some ideas to get you started:
 
 -->
 
-<img src ="https://img.shields.io/badge/4chan.svg?&style=for-the-badge&logo=4chan&logoColor=006600" alt="크로버"/>
+<img alt="크로버" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=4chan&logoColor=006600"/>
 <img alt="Cshart" src="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white""/>
 
