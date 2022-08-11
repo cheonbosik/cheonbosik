@@ -86,5 +86,7 @@ Here are some ideas to get you started:
 <img alt="Cshart" src="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white""/>
 
 <a href="http://daum.net" target="_blank"><img src="https://img.shields.io/badge/Burton-000000?style=dadge&logo=Burton&logoColor=white"/></a>
+                                                                                                                                       <a href="http://blog.daum.net" target="_blank"><img src="https://img.shields.io/badge/Burton-000000?style=dadge&logo=Burton&logoColor=white"/></a>
+                                                                                                                                       <a href="http://blog.daum.net/cjsk1126" target="_blank"><img src="https://img.shields.io/badge/Burton-000000?style=dadge&logo=Burton&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheonbosik&show_icons=true&theme=radical)
